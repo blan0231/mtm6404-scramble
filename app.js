@@ -21,7 +21,8 @@ function shuffle(src) {
 function ScrambleGame() {
   const wordList = [
     "bridge", "castle", "orange", "treasure", "goblin", 
-    "voyage", "shadow", "puzzle", "victory", "lantern", "dagger", "vortex", "zeppelin", "gargoyle", "sentinel", "crimson", "runestone", "catapult", "sanctuary"
+    "voyage", "shadow", "puzzle", "victory", "lantern", "dagger", "vortex", "zeppelin", "gargoyle", "sentinel", "crimson", "runestone", "catapult", "sanctuary",
+    "flabbergasted", "questing", "quixotic", "cipher", "furnace", "ranger", "pinnacle", "fabled", "anvil", "phoenix", "glisten", "captain", "summit", "scepter"
   ];
 
 
